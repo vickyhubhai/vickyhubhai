@@ -1,5 +1,62 @@
-# 💫 About Me:
-Hey, I’m Vicky — but around the web, folks know me as TerrorBhai. I build things that are fast, reliable, and a little bit bold.<br><br>## What I Do<br>- Mobile apps with Flutter using VS Code/Android Studio on Windows.<br>- Bots for Discord/Telegram with focus on premium features, security, and branding; active on Top GG/Bot Fluxo ecosystems.<br>- Machine learning experiments with Python and TensorFlow.<br>- API/backend work, including JWT-based auth and PHP-powered integrations.<br>- Databases: comparing/using MongoDB and MySQL depending on scale and real-time needs; exploring free/managed options like Supabase, AWS RDS, InfinityFree, Redis.<br><br>## Tools I Like<br>- VS Code + GitHub Copilot, dabbling with Google Gemini; always tweaking settings and student-friendly setups.<br><br>## What I’m Building<br>- Cross-platform AI-driven tools with dark/red UI themes using HTML/CSS/JS/Python.<br>- Scalable bot backends with strong auth, role-based features, and clean branding.<br><br>## Interests<br>- Digital art: custom PFPs with text overlays and anime/Ghibli-style twists.<br>- AI image generation: realistic portraits with vintage yellow-green vibes, moody atmospheres, twilight oceans.<br>- Storytelling/manga inspired by Solo Leveling.<br><br>## Current Focus<br>- Hardening auth flows with JWT and better test tooling.<br>- Picking the right DB per workload (real-time vs relational), plus cost-conscious hosting.<br>- Shipping Flutter apps with smooth performance and clean UX.<br><br>## Let’s Connect<br>If it’s about bots, mobile, AI, or backend performance, I’m in — especially where speed, security, and polish meet product.<br><br>Technologies: Flutter, Dart, Python, TensorFlow, JavaScript, PHP, C++, MongoDB, MySQL, Supabase, Redis, JWT, VS Code, Android Studio.<br><br>
+# 💫 About Me
+
+Hey, I’m **Vicky** — but around the web, most people know me as **TerrorBhai**.
+I build things that are **fast, reliable, and a little bit bold**.
+
+---
+
+## 🚀 What I Do
+
+* 🧩 **Mobile Apps:** Flutter development using VS Code / Android Studio on Windows.
+* 🤖 **Bots:** Discord & Telegram bots with premium features, strong security, and clean branding — active in **Top.gg** and **Bot Fluxo** ecosystems.
+* 🧠 **Machine Learning:** Experiments with **Python** and **TensorFlow** for automation and AI-driven features.
+* 🔗 **Backend & APIs:** Building secure JWT-based authentication systems, PHP integrations, and scalable API layers.
+* 🗃️ **Databases:** Choosing between **MongoDB** and **MySQL** depending on scale and real-time needs; exploring managed/free options like **Supabase**, **AWS RDS**, **InfinityFree**, and **Redis**.
+
+---
+
+## 🧰 Tools & Tech
+
+* 💻 **Editors:** VS Code + GitHub Copilot (with occasional Google Gemini experiments).
+* ⚙️ **Languages & Frameworks:** Flutter, Dart, Python, TensorFlow, JavaScript, PHP, C++.
+* 🗄️ **Databases:** MongoDB, MySQL, Supabase, Redis.
+* 🔐 **Security:** JWT, OAuth, and role-based permission systems.
+* 🧪 **Environments:** Android Studio, Node.js, and cloud-based setups.
+
+---
+
+## 🧠 What I’m Building
+
+* 🌌 **Cross-platform AI-driven tools** with dark/red UI themes using HTML, CSS, JS, and Python.
+* 🛡️ **Scalable bot backends** with strong authentication, role hierarchy, and polished branding.
+* ⚡ **Flutter apps** focused on smooth performance and clean user experience.
+
+---
+
+## 🎨 Interests
+
+* 🖼️ **Digital Art:** Custom profile pictures with text overlays and anime/Ghibli-inspired styles.
+* 🌆 **AI Image Generation:** Realistic portraits with vintage yellow-green tones and twilight ocean vibes.
+* 📚 **Storytelling:** Writing manga inspired by *Solo Leveling* and Isekai worlds.
+
+---
+
+## 🔥 Current Focus
+
+* Enhancing **JWT authentication** and automated test tooling.
+* Optimizing **database selection** for real-time and relational use cases.
+* Improving **app performance** and UX across platforms.
+
+---
+
+## 🤝 Let’s Connect
+
+If it’s about **bots, mobile apps, AI, or backend performance**, I’m all in — especially where **speed**, **security**, and **polish** meet product.
+
+---
+
+**Technologies:**
+`Flutter` · `Dart` · `Python` · `TensorFlow` · `JavaScript` · `PHP` · `C++` · `MongoDB` · `MySQL` · `Supabase` · `Redis` · `JWT` · `VS Code` · `Android Studio`
 
 
 ## 🌐 Socials:
