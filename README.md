@@ -1,62 +1,55 @@
-# 💫 About Me
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Hey, I’m **Vicky** — but around the web, most people know me as **TerrorBhai**.
-I build things that are **fast, reliable, and a little bit bold**.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## 🚀 What I Do
+###
 
-* 🧩 **Mobile Apps:** Flutter development using VS Code / Android Studio on Windows.
-* 🤖 **Bots:** Discord & Telegram bots with premium features, strong security, and clean branding — active in **Top.gg** and **Bot Fluxo** ecosystems.
-* 🧠 **Machine Learning:** Experiments with **Python** and **TensorFlow** for automation and AI-driven features.
-* 🔗 **Backend & APIs:** Building secure JWT-based authentication systems, PHP integrations, and scalable API layers.
-* 🗃️ **Databases:** Choosing between **MongoDB** and **MySQL** depending on scale and real-time needs; exploring managed/free options like **Supabase**, **AWS RDS**, **InfinityFree**, and **Redis**.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
+###
 
-## 🧰 Tools & Tech
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-* 💻 **Editors:** VS Code + GitHub Copilot (with occasional Google Gemini experiments).
-* ⚙️ **Languages & Frameworks:** Flutter, Dart, Python, TensorFlow, JavaScript, PHP, C++.
-* 🗄️ **Databases:** MongoDB, MySQL, Supabase, Redis.
-* 🔐 **Security:** JWT, OAuth, and role-based permission systems.
-* 🧪 **Environments:** Android Studio, Node.js, and cloud-based setups.
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🧠 What I’m Building
-
-* 🌌 **Cross-platform AI-driven tools** with dark/red UI themes using HTML, CSS, JS, and Python.
-* 🛡️ **Scalable bot backends** with strong authentication, role hierarchy, and polished branding.
-* ⚡ **Flutter apps** focused on smooth performance and clean user experience.
-
----
-
-## 🎨 Interests
-
-* 🖼️ **Digital Art:** Custom profile pictures with text overlays and anime/Ghibli-inspired styles.
-* 🌆 **AI Image Generation:** Realistic portraits with vintage yellow-green tones and twilight ocean vibes.
-* 📚 **Storytelling:** Writing manga inspired by *Solo Leveling* and Isekai worlds.
-
----
-
-## 🔥 Current Focus
-
-* Enhancing **JWT authentication** and automated test tooling.
-* Optimizing **database selection** for real-time and relational use cases.
-* Improving **app performance** and UX across platforms.
-
----
-
-## 🤝 Let’s Connect
-
-If it’s about **bots, mobile apps, AI, or backend performance**, I’m all in — especially where **speed**, **security**, and **polish** meet product.
-
----
-
-**Technologies:**
-`Flutter` · `Dart` · `Python` · `TensorFlow` · `JavaScript` · `PHP` · `C++` · `MongoDB` · `MySQL` · `Supabase` · `Redis` · `JWT` · `VS Code` · `Android Studio`
+###
 
 
 ## 🌐 Socials:
