@@ -61,5 +61,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vickyhubhai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ###
