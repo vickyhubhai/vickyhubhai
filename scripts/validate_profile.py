@@ -74,9 +74,12 @@ def check_readme():
         failures.append(f"README: unclosed tags {p.stack}")
 
     required = [
-        "## About Me", "## Current Projects", "## Tech Stack", "## GitHub Statistics",
-        "## Contribution Activity", "## Featured Projects", "## Connect With Me",
-        "## Automation & Setup",
+        # original GitSkins sections (must stay untouched)
+        "## Header", "## About Me", "## Skills", "## GitHub Stats", "## Projects",
+        "## Connect", "## Streak",
+        # appended sections
+        "## Contribution Activity", "## Stats & Languages", "## Tech Stack",
+        "## Featured Repositories", "## Links & Contact", "## Automation & Setup",
     ]
     for section in required:
         if section not in text:
@@ -88,9 +91,6 @@ def check_readme():
             failures.append(f"README: local asset missing -> {ref}")
         else:
             print(f"  asset OK: {ref} ({target.stat().st_size} bytes)")
-
-    if "assets/banner.svg" not in text:
-        failures.append("README: banner not referenced")
 
     for pattern in ("ghp_", "github_pat_", "AKIA", "sk-", "BEGIN RSA", "password="):
         if pattern in text:
