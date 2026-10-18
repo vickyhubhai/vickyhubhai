@@ -12,6 +12,7 @@ Hi, I'm **vickyhubhai**. This README is tuned for **open source** with a Neon vi
     <img src="https://www.gitskins.com/api/section/hero?username=vickyhubhai&theme=neon" alt="vickyhubhai hero section" />
   </picture>
 </p>
+
 ## About Me
 Shapes the short profile story and positioning.
 <p align="center">
@@ -20,6 +21,7 @@ Shapes the short profile story and positioning.
     <img src="https://www.gitskins.com/api/section/about?username=vickyhubhai&theme=neon" alt="vickyhubhai about section" />
   </picture>
 </p>
+
 ## Skills
 Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
@@ -28,6 +30,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
     <img src="https://www.gitskins.com/api/section/stack?username=vickyhubhai&theme=neon" alt="vickyhubhai stack section" />
   </picture>
 </p>
+
 ## GitHub Stats
 GitSkins stat widgets will use the **Neon** theme.
 <p align="center">
@@ -36,6 +39,7 @@ GitSkins stat widgets will use the **Neon** theme.
     <img src="https://www.gitskins.com/api/section/stats?username=vickyhubhai&theme=neon" alt="vickyhubhai stats section" />
   </picture>
 </p>
+
 ## Projects
 Highlights repositories as proof of work.
 <p align="center">
@@ -44,6 +48,7 @@ Highlights repositories as proof of work.
     <img src="https://www.gitskins.com/api/section/projects?username=vickyhubhai&theme=neon" alt="vickyhubhai projects section" />
   </picture>
 </p>
+
 ## Connect
 Email: pandeyvicky185@gmail.com
 <p align="center">
@@ -52,6 +57,7 @@ Email: pandeyvicky185@gmail.com
     <img src="https://www.gitskins.com/api/section/social?username=vickyhubhai&theme=neon&email=pandeyvicky185%40gmail.com" alt="vickyhubhai social section" />
   </picture>
 </p>
+
 ## Streak
 > Editing this section in the inspector.
 Adds contribution consistency signals.
