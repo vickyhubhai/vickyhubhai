@@ -76,9 +76,9 @@ Adds contribution consistency signals.
 <p align="center">
   <a href="https://github.com/vickyhubhai/vickyhubhai/tree/output">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vickyhubhai/vickyhubhai/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vickyhubhai/vickyhubhai/output/github-contribution-grid-snake.svg" />
-      <img src="https://raw.githubusercontent.com/vickyhubhai/vickyhubhai/output/github-contribution-grid-snake.svg" alt="Snake animation eating my GitHub contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/vickyhubhai/vickyhubhai@output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/vickyhubhai/vickyhubhai@output/github-contribution-grid-snake.svg" />
+      <img width="100%" src="https://cdn.jsdelivr.net/gh/vickyhubhai/vickyhubhai@output/github-contribution-grid-snake.svg" alt="Snake animation eating my GitHub contribution graph" />
     </picture>
   </a>
 </p>
@@ -87,7 +87,11 @@ Adds contribution consistency signals.
   <sub>Real contribution graph, regenerated twice a day and on demand by
   <a href="https://github.com/vickyhubhai/vickyhubhai/actions/workflows/snake.yml">snake.yml</a>
   (<a href="https://github.com/Platane/snk">Platane/snk</a>); the SVG assets live on the
-  <a href="https://github.com/vickyhubhai/vickyhubhai/tree/output">output</a> branch.</sub>
+  <a href="https://github.com/vickyhubhai/vickyhubhai/tree/output">output</a> branch and are served through
+  <a href="https://www.jsdelivr.com/">jsDelivr</a> so the image also loads on networks where
+  <code>raw.githubusercontent.com</code> is blocked.
+  <a href="https://github.com/vickyhubhai/vickyhubhai/blob/output/github-contribution-grid-snake.svg">Open the SVG directly</a>
+  if the animation does not appear.</sub>
 </p>
 
 ## Stats & Languages
@@ -224,7 +228,7 @@ Adds contribution consistency signals.
 
 ## Automation & Setup
 
-- **Contribution snake (automated).** [`.github/workflows/snake.yml`](.github/workflows/snake.yml) regenerates light and dark snake SVGs on a 12-hour schedule, on manual trigger (Actions → *Generate Contribution Snake* → *Run workflow*), and whenever the workflow file itself changes. It publishes them to the [`output`](https://github.com/vickyhubhai/vickyhubhai/tree/output) branch, which is where the "Contribution Activity" section loads them from. It uses the built-in `GITHUB_TOKEN` with `contents: write` and no other permissions or secrets; the branch is created automatically on first run.
+- **Contribution snake (automated).** [`.github/workflows/snake.yml`](.github/workflows/snake.yml) regenerates light and dark snake SVGs on a 12-hour schedule, on manual trigger (Actions → *Generate Contribution Snake* → *Run workflow*), and whenever the workflow file itself changes. It publishes them to the [`output`](https://github.com/vickyhubhai/vickyhubhai/tree/output) branch, and the "Contribution Activity" section loads them through the [jsDelivr](https://www.jsdelivr.com/) CDN (`cdn.jsdelivr.net/gh/vickyhubhai/vickyhubhai@output/…`) instead of `raw.githubusercontent.com`, which is blocked or throttled on some networks; jsDelivr caches branch files for up to 12 hours. The workflow uses the built-in `GITHUB_TOKEN` with `contents: write` and no other permissions or secrets; the branch is created automatically on first run.
 - **Third-party widgets (may be rate-limited).** Stats, streak, language and repository cards come from *github-readme-stats* and *github-readme-streak-stats*; badges from *shields.io*; the profile-view counter from *komarev.com*. These are derived readings of my public GitHub data — the view counter in particular is a third-party estimate. If a public instance is rate-limited or unavailable, that single image may fail while the rest of the page still renders.
 - **Refreshing.** Re-run the snake workflow or push a README edit; image caching (browser and GitHub's image proxy) can delay changes by a few minutes.
 - **Local validation (optional).** `python scripts/validate_profile.py` checks the workflow YAML, README structure, local assets and secret patterns; `python scripts/check_links.py` resolves every external URL in the README. Both need Python 3 with PyYAML.
