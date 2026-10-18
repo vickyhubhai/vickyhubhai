@@ -1,19 +1,35 @@
-name: Generate Snake
+name: Generate Contribution Snake
 
+# Regenerates the contribution snake SVGs used by README.md and publishes them to the
+# `output` branch. The branch does not need to exist beforehand: the deploy step creates it.
 on:
   schedule:
+    # Twice a day (00:00 and 12:00 UTC). GitHub can delay scheduled runs during peak load.
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    # Keeps the workflow self-validating when this file changes; nothing else triggers it.
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
 
+# Only what is required: publish generated SVG assets to the `output` branch.
 permissions:
   contents: write
 
+# Never let a scheduled run overlap with a manual one.
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
+    name: Generate and publish snake SVGs
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Generate Snake
+      - name: Generate snake SVGs (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: vickyhubhai
@@ -21,10 +37,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Publish SVGs to the "output" branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
+          # Built-in token of this repository, not a personal access token.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
