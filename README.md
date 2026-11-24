@@ -1,234 +1,166 @@
-# vickyhubhai
+<div align="center">
 
-> Maintainer credibility and contributor clarity.
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=vickyhubhai&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="TerrorBhai profile banner" />
 
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
+<br/>
 
-## Header
-Hi, I'm **vickyhubhai**. This README is tuned for **open source** with a Neon visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=vickyhubhai&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=vickyhubhai&theme=neon" alt="vickyhubhai hero section" />
-  </picture>
-</p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Vicky%20(aka%20TerrorBhai)%20%E2%80%94%20building%20fast%2C%20secure%20ap%E2%80%A6;Building%20with%20TypeScript%20%C2%B7%20JavaScript%20%C2%B7%20HTML;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
-## About Me
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=vickyhubhai&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=vickyhubhai&theme=neon" alt="vickyhubhai about section" />
-  </picture>
-</p>
+<br/>
 
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vickyhubhai&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=vickyhubhai&theme=neon" alt="vickyhubhai stack section" />
-  </picture>
-</p>
+<a href="https://github.com/vickyhubhai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
 
-## GitHub Stats
-GitSkins stat widgets will use the **Neon** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vickyhubhai&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=vickyhubhai&theme=neon" alt="vickyhubhai stats section" />
-  </picture>
-</p>
+<br/><br/>
 
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vickyhubhai&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=vickyhubhai&theme=neon" alt="vickyhubhai projects section" />
-  </picture>
-</p>
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/3_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="3 followers" />
 
-## Connect
-Email: pandeyvicky185@gmail.com
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=vickyhubhai&theme=neon&email=pandeyvicky185%40gmail.com&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=vickyhubhai&theme=neon&email=pandeyvicky185%40gmail.com" alt="vickyhubhai social section" />
-  </picture>
-</p>
+</div>
 
-## Streak
-> Editing this section in the inspector.
-Adds contribution consistency signals.
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vickyhubhai&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect, Streak -->
+## ⚡ whoami
 
----
+```typescript
+const vickyhubhai: Developer = {
+  name:      "TerrorBhai",
+  role:      "Frontend or full-stack engineer",
+  location:  "Building from the open web",
+  currently: "building in public",
+  stack:     ["TypeScript", "JavaScript", "HTML", "CSS", "Blade", "Python"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
 
-<!--
-  ADDITIONS — everything below this line was added later.
-  Nothing above this line was modified or removed.
--->
+> Vicky (aka TerrorBhai) — building fast, secure apps and bots with Flutter, Python, and strong authentication systems.
 
-## Contribution Activity
+💻 Build Fast. Build Secure. Build Bold
+> 
+> **Collaborations welcome when they are meaningful 🤝**
 
-<p align="center">
-  <a href="https://github.com/vickyhubhai/vickyhubhai/tree/output">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/vickyhubhai/vickyhubhai@output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/vickyhubhai/vickyhubhai@output/github-contribution-grid-snake.svg" />
-      <img width="100%" src="https://cdn.jsdelivr.net/gh/vickyhubhai/vickyhubhai@output/github-contribution-grid-snake.svg" alt="Snake animation eating my GitHub contribution graph" />
-    </picture>
-  </a>
-</p>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vickyhubhai&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<p align="center">
-  <sub>Real contribution graph, regenerated twice a day and on demand by
-  <a href="https://github.com/vickyhubhai/vickyhubhai/actions/workflows/snake.yml">snake.yml</a>
-  (<a href="https://github.com/Platane/snk">Platane/snk</a>); the SVG assets live on the
-  <a href="https://github.com/vickyhubhai/vickyhubhai/tree/output">output</a> branch and are served through
-  <a href="https://www.jsdelivr.com/">jsDelivr</a> so the image also loads on networks where
-  <code>raw.githubusercontent.com</code> is blocked.
-  <a href="https://github.com/vickyhubhai/vickyhubhai/blob/output/github-contribution-grid-snake.svg">Open the SVG directly</a>
-  if the animation does not appear.</sub>
-</p>
+## ⚔️ Tech Arsenal
 
-## Stats & Languages
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vickyhubhai&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vickyhubhai&show_icons=true&rank_icon=github&hide_border=true&theme=default" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vickyhubhai&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" alt="GitHub stats: commits, pull requests, issues, stars and rank" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vickyhubhai&hide_border=true&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vickyhubhai&hide_border=true&theme=default" />
-    <img width="48%" src="https://streak-stats.demolab.com?user=vickyhubhai&hide_border=true&theme=github-dark" alt="Contribution streak: current streak, longest streak and total contributions" />
-  </picture>
-</p>
+<img src="https://skillicons.dev/icons?i=typescript%2Cjavascript%2Chtml%2Ccss%2Cpython%2Cphp&perline=8&theme=dark" alt="Tech stack" />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyhubhai&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyhubhai&layout=compact&langs_count=8&hide_border=true&theme=default" />
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyhubhai&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Most used languages by repository byte size" />
-  </picture>
-</p>
+<br/><br/>
 
-<p align="center">
-  <sub>Stats, streak and language figures are computed from my public GitHub data by
-  <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>.
-  The profile-view badge below is a third-party counter, not GitHub data.</sub>
-</p>
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
 
-## Tech Stack
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/Blade-f7523f?style=for-the-badge&amp;labelColor=0d1117" alt="Blade" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&amp;labelColor=0d1117" alt="PHP" /> <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&amp;labelColor=0d1117" alt="PowerShell" />
 
-**Languages**
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vickyhubhai&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-**Frameworks & runtimes**
+## 🌌 Featured Projects
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Data & APIs**
+**Ariya**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4B5563?style=flat-square)
+A featured build from this profile.
 
-**Platforms & tooling**
+`TypeScript` · `2 stars`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Discord bots](https://img.shields.io/badge/Discord%20bots-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Lavalink](https://img.shields.io/badge/Lavalink-7C3AED?style=flat-square)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logo=pterodactyl&logoColor=white)
+<a href="https://github.com/vickyhubhai/Ariya"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
-## Featured Repositories
+</td>
+<td width="50%" valign="top">
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/vickyhubhai/Ariya">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=Ariya&hide_border=true&theme=github_dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=Ariya&hide_border=true&theme=default" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=Ariya&hide_border=true&theme=github_dark" alt="Ariya repository card" />
-        </picture>
-      </a>
-      <br />
-      <sub>Ariya Music Player — website &amp; release platform · <a href="https://ariyamusic.us.ci">ariyamusic.us.ci</a></sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/vickyhubhai/astrix-lavalink">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=astrix-lavalink&hide_border=true&theme=github_dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=astrix-lavalink&hide_border=true&theme=default" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=astrix-lavalink&hide_border=true&theme=github_dark" alt="astrix-lavalink repository card" />
-        </picture>
-      </a>
-      <br />
-      <sub>Lavalink node manager for Discord bots with failover &amp; queue recovery</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/vickyhubhai/MoviePrice-Watcher">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=MoviePrice-Watcher&hide_border=true&theme=github_dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=MoviePrice-Watcher&hide_border=true&theme=default" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=MoviePrice-Watcher&hide_border=true&theme=github_dark" alt="MoviePrice-Watcher repository card" />
-        </picture>
-      </a>
-      <br />
-      <sub>Ticket price tracker with email alerts · Node.js, Puppeteer, MongoDB</sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/vickyhubhai/titanium-bot-dashboard">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=titanium-bot-dashboard&hide_border=true&theme=github_dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=titanium-bot-dashboard&hide_border=true&theme=default" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vickyhubhai&repo=titanium-bot-dashboard&hide_border=true&theme=github_dark" alt="titanium-bot-dashboard repository card" />
-        </picture>
-      </a>
-      <br />
-      <sub>Discord bot dashboard for the web · TypeScript, deployed on Vercel</sub>
-    </td>
-  </tr>
+**impossible-game**
+
+A featured build from this profile.
+
+`HTML` · `1 stars`
+
+<a href="https://github.com/vickyhubhai/impossible-game"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Astro-Privacy**
+
+A featured build from this profile.
+
+`Open source` · `1 stars`
+
+<a href="https://github.com/vickyhubhai/Astro-Privacy"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**chess**
+
+A featured build from this profile.
+
+`TypeScript` · `1 stars`
+
+<a href="https://github.com/vickyhubhai/chess"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
 </table>
 
-## Links & Contact
+<details>
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+
+<br/>
+
+- **chess-game** — Featured work · <a href="https://github.com/vickyhubhai/chess-game"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **ai-api** — Featured work · <a href="https://github.com/vickyhubhai/ai-api"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **chat-gpt-clone** — Featured work · <a href="https://github.com/vickyhubhai/chat-gpt-clone"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **vickyhubhai** — Featured work · <a href="https://github.com/vickyhubhai/vickyhubhai"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</details>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vickyhubhai&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=vickyhubhai&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=vickyhubhai&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vickyhubhai&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <p align="center">
-  <a href="https://ariyamusic.us.ci"><img src="https://img.shields.io/badge/ariyamusic.us.ci-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website: ariyamusic.us.ci" /></a>
-  <a href="https://github.com/vickyhubhai"><img src="https://img.shields.io/badge/vickyhubhai-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub: vickyhubhai" /></a>
-  <a href="mailto:pandeyvicky185@gmail.com"><img src="https://img.shields.io/badge/pandeyvicky185@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20opportunities-brightgreen?style=flat-square" alt="Open to opportunities" />
-  <img src="https://komarev.com/ghpvc/?username=vickyhubhai&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views (third-party counter)" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vickyhubhai&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152867529%3Fu%3D0a761e89b8837bb5ab59dee7963c899d2f8d939a%26v%3D4" alt="vickyhubhai heatmap visual" />
 </p>
 
-- **GitHub** — [github.com/vickyhubhai](https://github.com/vickyhubhai) · [all repositories](https://github.com/vickyhubhai?tab=repositories) · [Ariya discussions](https://github.com/vickyhubhai/Ariya/discussions)
-- **Website** — [ariyamusic.us.ci](https://ariyamusic.us.ci) (Ariya Music Player)
-- **Email** — [pandeyvicky185@gmail.com](mailto:pandeyvicky185@gmail.com)
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vickyhubhai&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## Automation & Setup
+## 🏆 Beyond the Code
 
-- **Contribution snake (automated).** [`.github/workflows/snake.yml`](.github/workflows/snake.yml) regenerates light and dark snake SVGs on a 12-hour schedule, on manual trigger (Actions → *Generate Contribution Snake* → *Run workflow*), and whenever the workflow file itself changes. It publishes them to the [`output`](https://github.com/vickyhubhai/vickyhubhai/tree/output) branch, and the "Contribution Activity" section loads them through the [jsDelivr](https://www.jsdelivr.com/) CDN (`cdn.jsdelivr.net/gh/vickyhubhai/vickyhubhai@output/…`) instead of `raw.githubusercontent.com`, which is blocked or throttled on some networks; jsDelivr caches branch files for up to 12 hours. The workflow uses the built-in `GITHUB_TOKEN` with `contents: write` and no other permissions or secrets; the branch is created automatically on first run.
-- **Third-party widgets (may be rate-limited).** Stats, streak, language and repository cards come from *github-readme-stats* and *github-readme-streak-stats*; badges from *shields.io*; the profile-view counter from *komarev.com*. These are derived readings of my public GitHub data — the view counter in particular is a third-party estimate. If a public instance is rate-limited or unavailable, that single image may fail while the rest of the page still renders.
-- **Refreshing.** Re-run the snake workflow or push a README edit; image caching (browser and GitHub's image proxy) can delay changes by a few minutes.
-- **Local validation (optional).** `python scripts/validate_profile.py` checks the workflow YAML, README structure, local assets and secret patterns; `python scripts/check_links.py` resolves every external URL in the README. Both need Python 3 with PyYAML.
+* 🧠 **Profile signal:** 119 contributions in the last year
+* 🚀 **Builder energy:** 37 public repositories
+* ⭐ **Community signal:** 10 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=vickyhubhai&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="https://github.com/vickyhubhai"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+
+<br/><br/>
+
+***⭐ From [TerrorBhai](https://github.com/vickyhubhai) · built with code, AI & a little chaos 😈***
+
+</div>
