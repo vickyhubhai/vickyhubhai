@@ -6,6 +6,8 @@
 
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=vickyhubhai&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="TerrorBhai profile banner" />
 
+<img src="https://www.gitskins.com/api/section/portrait?username=vickyhubhai&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152867529%3Fu%3D0a761e89b8837bb5ab59dee7963c899d2f8d939a%26v%3D4" width="620" alt="TerrorBhai animated graduation portrait" />
+
 <br/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Vicky%20(aka%20TerrorBhai)%20%E2%80%94%20building%20fast%2C%20secure%20ap%E2%80%A6;Building%20with%20TypeScript%20%C2%B7%20JavaScript%20%C2%B7%20HTML;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
