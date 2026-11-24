@@ -2,11 +2,10 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm TerrorBhai</h1>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" /><br>
 
 <img src="https://www.gitskins.com/api/readme-reference/hero?username=vickyhubhai&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="TerrorBhai profile banner" />
 
-<img src="https://www.gitskins.com/api/section/portrait?username=vickyhubhai&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152867529%3Fu%3D0a761e89b8837bb5ab59dee7963c899d2f8d939a%26v%3D4" width="620" alt="TerrorBhai animated graduation portrait" />
 
 <br/>
 
